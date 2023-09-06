@@ -18,6 +18,8 @@ Please respect the terms and conditions set by NJIT and any relevant copyright h
 
 Remember, the best way to succeed in your studies is through honest effort, understanding of the material, and ethical conduct.
 
+I apologize for the lack of organization and labeling. GitHub limits file size uploads, so I had to create this repository in pieces. It's relatively straightforward to find what you're looking for by first identifying the file name and then taking a cursory glance at the file itself.
+
 
 David Czerepak
 dmc9@njit.edu
